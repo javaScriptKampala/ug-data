@@ -1,0 +1,20 @@
+{
+  "name": "ug-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novalabsug/ug-data.git"
+  },
+  "author": "jeremyMa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novalabsug/ug-data/issues"
+  },
+  "homepage": "https://github.com/novalabsug/ug-data#readme"
+}
